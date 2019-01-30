@@ -82,7 +82,7 @@ ul > .social {
     padding: 0px;
 }
 
-.twitterred, .githubred, .linkedinred {
+.twitterred, .githubred, .linkedinred, .goodreadsred {
     color:red;
     width: 3rem;
 }
